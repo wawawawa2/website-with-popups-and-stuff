@@ -1,2 +1,2 @@
-openai-domain-verification=dv-eVpahmWGjvKofdr35xKNnX4Z
+openai-domain-verification=dv-uG49zzMGz4BBlPiHNDPEESls
 google-site-verification=iaZL0Ym3RVKe4tuCUtBhuJnXrqNk9NMS1UahGIkiQRs
